@@ -13,7 +13,7 @@ img {
   
 }
 
-@media only screen and (max-width:950px){
+@media only screen and (max-width:850px){
     body{
       color:#592f8c;
       font-size: 2.3em;
@@ -73,7 +73,7 @@ h2 {
 
 
   /*media queries*/
-@media screen and (max-width:600px){
+@media screen and (min-width:600px){
     body{
         margin: auto;
         padding: 20px 10px;
@@ -86,30 +86,12 @@ h2 {
 	text-align: center;
 	font-size:15px;
 	border: 1px solid black;
- 
-}
-
-input[type=text],input[type=email]{
-    width:80%;
-    font:1.0em;
-    padding:0.5em;
-
-}
-input [type=submit]{
-    align-items: center;
-    width: 25%;
-    margin: 2.8em;
-    border-radius: 100% ;
-    font-size:8.1em;
-    
-}
-   div {
-  border: 1px solid black;
-  margin-top: 100px;
+ margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
   background-color: lightblue;
 }
-  
+
+   
 }
