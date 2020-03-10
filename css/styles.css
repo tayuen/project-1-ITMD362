@@ -82,7 +82,7 @@ h2 {
     }
   
   div{
-	color: lightblue;
+	color: gray;
 	text-align: center;
 	font-size:15px;
 	border: 1px solid black;
@@ -90,7 +90,7 @@ h2 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  background-color: gray;
+  background-color: lightblue;
 }
 
    
